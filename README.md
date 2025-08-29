@@ -28,8 +28,5 @@ The full, commented SQL script is available in the `Murder Mystery Solution.sql`
 -- Step 7: Uncover the mastermind using clues from the confession.
 ```
 
-### Video Walkthrough
-Watch a full walkthrough of the investigation, demonstrating the queries in action and revealing how each piece of evidence was uncovered.[NIDS GUI Walkthrough Video](murder-mystery-solution.mp4)
-
 ### Full Report & Documentation
 For a detailed explanation of the logic, a complete report, and the full SQL queries with outputs, download the official report here: [solution-report.pdf](solution-report.pdf)
